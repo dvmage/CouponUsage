@@ -1,0 +1,3 @@
+app/design/adminhtml/default/default/layout/belvg/couponsusage.xml app/design/adminhtml/default/default/layout/belvg/couponsusage.xml
+app/code/community/Belvg/CouponUsage app/code/community/Belvg/CouponUsage
+app/etc/modules/Belvg_CouponUsage.xml app/etc/modules/Belvg_CouponUsage.xml
