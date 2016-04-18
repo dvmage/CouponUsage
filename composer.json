@@ -1,0 +1,16 @@
+{
+  "name": "dvmage/CouponUsage",
+  "type": "magento-module",
+  "license":"",
+  "description":"Paid Magento Extension - CouponUsage",
+  "authors":[
+    {
+      "name":"BelVG Team",
+      "email":"store@belvg.com"
+    }
+  ],
+
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
